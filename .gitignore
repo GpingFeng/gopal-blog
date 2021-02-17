@@ -4,4 +4,3 @@
 node_modules/
 *.bat
 docs/.vuepress/
-directoryList.md
