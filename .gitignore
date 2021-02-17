@@ -3,6 +3,5 @@
 *.log
 node_modules/
 *.bat
-*.sh
 docs/.vuepress/
 directoryList.md
