@@ -1,3 +1,9 @@
-<fixed />
+<!-- <fixed /> -->
 
-<Vssue :title="$title" />
+# test
+
+# 评论
+
+# Vssue Demo
+
+<Vssue title="Demo" />

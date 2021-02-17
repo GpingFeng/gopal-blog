@@ -42,17 +42,32 @@ module.exports = {
       ],
     },
     globalUIComponents: ['fixed'],
-    plugins: ['@vuepress/back-to-top',
-      '@vssue/vuepress-plugin-vssue',
-      {
+    // plugins: [
+    //   ['@vssue/vuepress-plugin-vssue', {
+    //   }],
+    // ],
+    plugins: {
+      '@vssue/vuepress-plugin-vssue': {
         // 设置 `platform` 而不是 `api`
         platform: 'github',
+        locale: 'zh',
         // 其他的 Vssue 配置
-        owner: 'OWNER_OF_REPO',
-        repo: 'NAME_OF_REPO',
-        clientId: 'YOUR_CLIENT_ID',
-        clientSecret: 'YOUR_CLIENT_SECRET'
+        owner: 'GpingFeng',
+        repo: 'gopal-blog',
+        clientId: '64068d61291e087cd3a1',
+        clientSecret: 'f810bd3ad00ef157f49af5e1f844ace5ae0f9c0f',
       }
-    ]
+    },
+    // plugins: [
+    //   ['@vssue/vuepress-plugin-vssue', {
+    //       // 设置 `platform` 而不是 `api`
+    //       platform: 'github',
+    //       // 其他的 Vssue 配置
+    //       owner: 'GpingFeng',
+    //       repo: 'gopal-blog',
+    //       clientId: '64068d61291e087cd3a1',
+    //       clientSecret: 'f810bd3ad00ef157f49af5e1f844ace5ae0f9c0f'
+    //     }]
+    // ]
   },
 };
