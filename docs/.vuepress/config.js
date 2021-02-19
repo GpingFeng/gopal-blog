@@ -7,22 +7,26 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: '主页', link: '/' },
-      { text: 'node', link: '/node/' },
+      { text: '前端进阶', link: '/fe/' },
       // 二级导航栏
-      {
-        text: '前端',
-        items: [
-          { text: 'html', link: '/web/html/' },
-          { text: 'css', link: '/web/css/' },
-        ],
-      },
-      { text: '数据库', link: '/database/' },
-      { text: 'android', link: '/android/' },
-      { text: '面试问题', link: '/interview/' },
+      // {
+      //   text: '前端',
+      //   items: [
+      //     { text: 'html', link: '/web/html/' },
+      //     { text: 'css', link: '/web/css/' },
+      //   ],
+      // },
+      // { text: '数据库', link: '/database/' },
+      // { text: 'android', link: '/android/' },
+      // { text: '面试问题', link: '/interview/' },
     ],
     sidebar: 'auto',
     displayAllHeaders: true,
     sidebar: {
+      '/fe/': [
+        ['', '前端进阶介绍'],
+        ['this', '深入浅出 JavaScript 中的 this'],
+      ],
       '/node/': [
         ['', 'node目录'],
         ['path', '作为前端也需要知道的路径知识'],
@@ -42,6 +46,16 @@ module.exports = {
       ],
     },
     globalUIComponents: ['fixed'],
-    
+    plugins: {
+      '@vssue/vuepress-plugin-vssue': {
+        // 设置 `platform` 而不是 `api`
+        platform: 'github',
+        // 其他的 Vssue 配置
+        owner: 'GpingFeng',
+        repo: 'gopal-blog',
+        clientId: '0d1a8a6328f145ceb64d',
+        clientSecret: '850d649d25300d9fad1118739f11480bc5366251',
+      }
+    },
   },
 };

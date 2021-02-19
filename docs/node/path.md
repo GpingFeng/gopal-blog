@@ -1,9 +1,13 @@
 <!-- <fixed /> -->
 
 # test
+<fixed/>
 
-# 评论
 
 # Vssue Demo
 
-<Vssue title="Demo" />
+
+{{$title}}
+<Vssue title="Vssue Demo" />
+
+<!-- <Vssue >23423453</Vssue> -->

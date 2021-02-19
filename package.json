@@ -8,12 +8,8 @@
     "docs:build": "vuepress build docs"
   },
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^1.8.1",
-    "@vuepress/plugin-nprogress": "^1.8.1",
-    "vuepress": "^1.8.1"
-  },
-  "dependencies": {
     "@vssue/api-github-v3": "^1.4.7",
-    "@vssue/vuepress-plugin-vssue": "^1.4.7"
+    "@vssue/vuepress-plugin-vssue": "^1.4.7",
+    "vuepress": "^1.8.1"
   }
 }
