@@ -47,15 +47,7 @@ module.exports = {
     },
     globalUIComponents: ['fixed'],
     plugins: {
-      '@vssue/vuepress-plugin-vssue': {
-        // 设置 `platform` 而不是 `api`
-        platform: 'github',
-        // 其他的 Vssue 配置
-        owner: 'GpingFeng',
-        repo: 'gopal-blog',
-        clientId: '0d1a8a6328f145ceb64d',
-        clientSecret: '850d649d25300d9fad1118739f11480bc5366251',
-      }
+
     },
   },
 };
