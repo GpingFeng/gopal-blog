@@ -44,6 +44,7 @@ Gopal 的个人博客
 - [你还不知道 JavaScript 中的函数劫持么？](https://juejin.cn/post/7103837916274622494)
 - [CSS 伪类没有生效？探索 content 属性！](https://juejin.cn/post/7109805196456230926)
 - [你真的了解 Node.js 么](https://juejin.cn/post/7024402484365885476)
+- [最强大的 CSS 布局 —— Grid 布局 ](https://github.com/GpingFeng/gopal-blog/issues/1)
 
 ## 前端框架
 - [深入浅出 Vue 中的 key 值](https://juejin.cn/post/6844903865930743815)
