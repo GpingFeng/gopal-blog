@@ -1,6 +1,6 @@
 
 
-# gopal-blog
+# Gopal Blog
 Gopal 的个人博客
 
 ## 前沿技术关注
