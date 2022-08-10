@@ -87,7 +87,7 @@ Gopal 的个人博客
 ahooks 源码阅读系列，[文档地址](https://gpingfeng.github.io/ahooks-analysis/)。
 - [大家都能看得懂的源码（一）ahooks 整体架构篇](https://github.com/GpingFeng/gopal-blog/issues/2)
 - [如何使用插件化机制优雅的封装你的请求](https://github.com/GpingFeng/gopal-blog/issues/3)🔥
-- [从 React 原理来看 ahooks 是怎么解决 React 的闭包问题的？]https://github.com/GpingFeng/gopal-blog/issues/4)
+- [从 React 原理来看 ahooks 是怎么解决 React 的闭包问题的？](https://github.com/GpingFeng/gopal-blog/issues/4)
 - [ahooks 是怎么解决用户多次提交问题？](https://github.com/GpingFeng/gopal-blog/issues/5)
 - [ahooks 中那些控制“时机”的hook都是怎么实现的？](https://juejin.cn/post/7107189225509879838)
 - [如何让 useEffect 支持 async...await？](https://juejin.cn/post/7108675095958126629)
