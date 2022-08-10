@@ -19,6 +19,8 @@ Gopal 的个人博客
 </a>
 <br />
 
+公众号@前端杂货铺，有温度且致力于前端分享的杂货铺。
+
 ## 前沿技术关注
 - [为什么 Vue3 选择了 CSS 变量](https://juejin.cn/post/6916298446638940173)
 - [十分钟带你进入 Web Components 的世界](https://juejin.cn/post/7108365499620130829)
