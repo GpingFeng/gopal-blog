@@ -94,12 +94,14 @@ ahooks 源码阅读系列，[文档地址](https://gpingfeng.github.io/ahooks-an
 - [如何让定时器在页面最小化的时候不执行？](https://github.com/GpingFeng/gopal-blog/issues/8)
 - [记录第一次给开源项目提 PR](https://github.com/GpingFeng/gopal-blog/issues/9)
 - [如何封装 cookie/localStorage/sessionStorage hook?](https://github.com/GpingFeng/gopal-blog/issues/10)
-- [通过这两个 hook 回顾学习 Set/Map 基础知识](https://juejin.cn/post/7110952441134186532)
-- [封装一个管理 url 状态的 hook](https://juejin.cn/post/7111250949691637768)
-- [这些 hook 更优雅的管理你的状态](https://juejin.cn/post/7111610143913017358)
-- [ahooks 是怎么处理 DOM 的？](https://juejin.cn/post/7111860051362447390)
-- [那些关于DOM的常见Hook封装（二）](https://juejin.cn/post/7113500743935459336)
-- [列表页常见 hook 封装](https://juejin.cn/post/7113819611744698398)
+- [通过这两个 hook 回顾学习 Set/Map 基础知识](https://github.com/GpingFeng/gopal-blog/issues/11)
+- [封装一个管理 url 状态的 hook](https://github.com/GpingFeng/gopal-blog/issues/12)
+- [这些 hook 更优雅的管理你的状态](https://github.com/GpingFeng/gopal-blog/issues/13)
+- [ahooks 是怎么处理 DOM 的？](https://github.com/GpingFeng/gopal-blog/issues/14)
+- [那些关于DOM的常见Hook封装（一） ](https://github.com/GpingFeng/gopal-blog/issues/17)
+- [那些关于DOM的常见Hook封装（二）](https://github.com/GpingFeng/gopal-blog/issues/15)
+- [列表页常见 hook 封装](https://github.com/GpingFeng/gopal-blog/issues/16)
+
 
 ## 前沿技术关注
 - [为什么 Vue3 选择了 CSS 变量](https://juejin.cn/post/6916298446638940173)🔥
