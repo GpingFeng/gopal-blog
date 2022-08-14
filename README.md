@@ -41,21 +41,21 @@ Gopal 的个人博客
 - [最强大的 CSS 布局 —— Grid 布局 ](https://github.com/GpingFeng/gopal-blog/issues/1)🔥
 
 ## 前端框架
-- [深入浅出 Vue 中的 key 值](https://juejin.cn/post/6844903865930743815)
-- [如何用 Typescript 写一个完整的 Vue 应用程序](https://juejin.cn/post/6860703641037340686)🔥
-- [如何实现组件属性透传？](https://juejin.cn/post/6865451649817640968)🔥
-- [从 slot 到无渲染组件](https://juejin.cn/post/6869537683736100871)
-- [手把手教你在 Vue 中使用 JSX](https://juejin.cn/post/6870480188086419470)
-- [一个合格的中级前端工程师应该掌握的 20 个 Vue 技巧](https://juejin.cn/post/6872128694639394830)🔥
-- [Vue 3 任意传送门——Teleport](https://juejin.cn/post/6874720017863147527)
+- [深入浅出 Vue 中的 key 值](https://github.com/GpingFeng/gopal-blog/issues/66)
+- [如何用 Typescript 写一个完整的 Vue 应用程序](https://github.com/GpingFeng/gopal-blog/issues/67)🔥
+- [如何实现组件属性透传？](https://github.com/GpingFeng/gopal-blog/issues/68)🔥
+- [从 slot 到无渲染组件](https://github.com/GpingFeng/gopal-blog/issues/69)
+- [手把手教你在 Vue 中使用 JSX](https://github.com/GpingFeng/gopal-blog/issues/70)
+- [一个合格的中级前端工程师应该掌握的 20 个 Vue 技巧](https://github.com/GpingFeng/gopal-blog/issues/71)🔥
+- [Vue 3 任意传送门——Teleport](https://github.com/GpingFeng/gopal-blog/issues/72)
 
 ## 前端工程化解决方案
-- [初识 webpack 原理——自定义插件](https://juejin.cn/post/6844903881965584391)
-- [深入浅出 CSS Modules](https://juejin.cn/post/6952665769209495566)
-- [聊聊 Source Map 的使用](https://juejin.cn/post/6953408023217831973)
-- [探索webpack5中的Module Federation](https://juejin.cn/post/7085868002205237279)
-- [最高性能的包管理器——pnpm](https://juejin.cn/post/7103139607243391012)
-- [2022 了，你还不知道 Multi-repo 和 Mono-repo 的区别么？](https://juejin.cn/post/7104976951005151239)
+- [初识 webpack 原理——自定义插件](https://github.com/GpingFeng/gopal-blog/issues/73)
+- [深入浅出 CSS Modules](https://github.com/GpingFeng/gopal-blog/issues/74)
+- [聊聊 Source Map 的使用](https://github.com/GpingFeng/gopal-blog/issues/75)
+- [探索webpack5中的Module Federation](https://github.com/GpingFeng/gopal-blog/issues/76)
+- [最高性能的包管理器——pnpm](https://github.com/GpingFeng/gopal-blog/issues/77)
+- [2022 了，你还不知道 Multi-repo 和 Mono-repo 的区别么？](https://github.com/GpingFeng/gopal-blog/issues/78)
 
 ## 计算机基础
 - [前端应该知道的 HTTP 知识【金九银十必备】](https://github.com/GpingFeng/gopal-blog/issues/55)🔥
@@ -137,7 +137,6 @@ ahooks 源码阅读系列，[文档地址](https://gpingfeng.github.io/ahooks-an
 - [我本地明明是好的啊？前端怎么本地复现线上问题？](https://github.com/GpingFeng/gopal-blog/issues/47)🔥
 - [记录一次切换包管理器引发的血案](https://github.com/GpingFeng/gopal-blog/issues/48)
 - [API 请求慢？这次锅真不在后端](https://github.com/GpingFeng/gopal-blog/issues/49)🔥
-- #46
 
 ## 职业规划与思考
 - [Gopal 的 2020 年度总结 ](https://github.com/GpingFeng/gopal-blog/issues/50)
