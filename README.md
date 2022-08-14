@@ -78,11 +78,11 @@ Gopal 的个人博客
 - [【webpack 性能优化】编译速度从 50S 到 7S](https://juejin.cn/post/6887863430510968839)
 
 ## 源码阅读
-- [Webpack 打包后的代码是怎样的？](https://juejin.cn/post/6937086236926410783)🔥
-- [聊聊 Webpack 热更新以及原理](https://juejin.cn/post/6939678015823544350)
-- [Vue-i18n你知道国际化是怎么实现的么？](https://juejin.cn/post/6965660033728135176)
-- [optimal-select——如何获取到 HTML 元素指纹（CSS Selector）](https://juejin.cn/post/6984186731348099086)
-- [深入浅出 Koa 的洋葱模型](https://juejin.cn/post/7012031464237694983)🔥
+- [Webpack 打包后的代码是怎样的？](https://github.com/GpingFeng/gopal-blog/issues/19)🔥
+- [聊聊 Webpack 热更新以及原理](https://github.com/GpingFeng/gopal-blog/issues/20)
+- [Vue-i18n你知道国际化是怎么实现的么？](https://github.com/GpingFeng/gopal-blog/issues/21)
+- [optimal-select——如何获取到 HTML 元素指纹（CSS Selector）](https://github.com/GpingFeng/gopal-blog/issues/22)
+- [深入浅出 Koa 的洋葱模型](https://github.com/GpingFeng/gopal-blog/issues/23)🔥
 
 ahooks 源码阅读系列，[文档地址](https://gpingfeng.github.io/ahooks-analysis/)。
 - [大家都能看得懂的源码（一）ahooks 整体架构篇](https://github.com/GpingFeng/gopal-blog/issues/2)
