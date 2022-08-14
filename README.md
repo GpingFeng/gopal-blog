@@ -58,21 +58,21 @@ Gopal 的个人博客
 - [2022 了，你还不知道 Multi-repo 和 Mono-repo 的区别么？](https://juejin.cn/post/7104976951005151239)
 
 ## 计算机基础
-- [前端应该知道的 HTTP 知识【金九银十必备】](https://juejin.cn/post/6864119706500988935)🔥
+- [前端应该知道的 HTTP 知识【金九银十必备】](https://github.com/GpingFeng/gopal-blog/issues/55)🔥
 
 ## 浏览器
-- [前端性能优化《一》——Chrome Performance 页面性能调试](https://juejin.cn/post/6844903826965676039)
+- [前端性能优化《一》——Chrome Performance 页面性能调试](https://github.com/GpingFeng/gopal-blog/issues/56)
 
 ## 工具
-- [Jenkins 入门实战：GitHub Push触发Jenkins自动构建](https://juejin.cn/post/6844903986017878029)
-- [前端应该知道的web调试工具——whistle](https://juejin.cn/post/6861882596927504392)🔥
-- [【译】73个超棒且可提高生产力的 NPM 包🚀🌱](https://juejin.cn/post/6890702514446925838)🔥
-- [像大佬一样使用 Google](https://juejin.cn/post/6934478610518507528)🔥
-- [10分钟快速搭建属于自己的文档网站](https://juejin.cn/post/6937452670202413087)🔥
-- [前端新人入职必备清单，赶紧点赞收藏吧](https://juejin.cn/post/7016497640569307149)
-- [如何调试你的 Node.js 代码？](https://juejin.cn/post/7035954397012033566)
-- [逃离 node_modules 无底洞](https://juejin.cn/post/7048420355743940645)
-- [15 分钟带你入门 Grafana](https://juejin.cn/post/7106821426354585630)
+- [Jenkins 入门实战：GitHub Push触发Jenkins自动构建](https://github.com/GpingFeng/gopal-blog/issues/57)
+- [前端应该知道的web调试工具——whistle](https://github.com/GpingFeng/gopal-blog/issues/58)🔥
+- [【译】73个超棒且可提高生产力的 NPM 包🚀🌱](https://github.com/GpingFeng/gopal-blog/issues/59)🔥
+- [像大佬一样使用 Google](https://github.com/GpingFeng/gopal-blog/issues/60)🔥
+- [10分钟快速搭建属于自己的文档网站](https://github.com/GpingFeng/gopal-blog/issues/61)🔥
+- [前端新人入职必备清单，赶紧点赞收藏吧](https://github.com/GpingFeng/gopal-blog/issues/62)
+- [如何调试你的 Node.js 代码？](https://github.com/GpingFeng/gopal-blog/issues/63)
+- [逃离 node_modules 无底洞](https://github.com/GpingFeng/gopal-blog/issues/64)
+- [15 分钟带你入门 Grafana](https://github.com/GpingFeng/gopal-blog/issues/65)
 
 ## 前端性能优化
 - [【webpack 性能优化】编译速度从 50S 到 7S](https://github.com/GpingFeng/gopal-blog/issues/24)
