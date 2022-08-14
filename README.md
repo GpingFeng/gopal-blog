@@ -75,7 +75,7 @@ Gopal 的个人博客
 - [15 分钟带你入门 Grafana](https://juejin.cn/post/7106821426354585630)
 
 ## 前端性能优化
-- [【webpack 性能优化】编译速度从 50S 到 7S](https://juejin.cn/post/6887863430510968839)
+- [【webpack 性能优化】编译速度从 50S 到 7S](https://github.com/GpingFeng/gopal-blog/issues/24)
 
 ## 源码阅读
 - [Webpack 打包后的代码是怎样的？](https://github.com/GpingFeng/gopal-blog/issues/19)🔥
@@ -104,19 +104,19 @@ ahooks 源码阅读系列，[文档地址](https://gpingfeng.github.io/ahooks-an
 
 
 ## 前沿技术关注
-- [为什么 Vue3 选择了 CSS 变量](https://juejin.cn/post/6916298446638940173)🔥
-- [十分钟带你进入 Web Components 的世界](https://juejin.cn/post/7108365499620130829)
-- [2021 GIAC 大前端专场思考总结（上篇）](https://juejin.cn/post/7112347307831459877)
-- [2021 GIAC 大前端专场思考总结（下篇）](https://juejin.cn/post/7112797447834828813)
+- [为什么 Vue3 选择了 CSS 变量](https://github.com/GpingFeng/gopal-blog/issues/25)🔥
+- [十分钟带你进入 Web Components 的世界](https://github.com/GpingFeng/gopal-blog/issues/26)
+- [2021 GIAC 大前端专场思考总结（上篇）](https://github.com/GpingFeng/gopal-blog/issues/27)
+- [2021 GIAC 大前端专场思考总结（下篇）](https://github.com/GpingFeng/gopal-blog/issues/28)
 
 ## 架构设计
 
 ## 前端面试
-- [JavaScript 对象赋值和浅拷贝的区别](https://juejin.cn/post/6844904046843674631)
-- [前端模拟面试【一面】](https://juejin.cn/post/6844904120629854216)
-- [前端模拟面试【二面】](https://juejin.cn/post/6844904121011552264)
-- [一年半前端 Bigo 一二三 面](https://juejin.cn/post/6880028535101227021)🔥
-- [一年半前端 Shopee 面经](https://juejin.cn/post/6880722165982429197)🔥
+- [JavaScript 对象赋值和浅拷贝的区别](https://github.com/GpingFeng/gopal-blog/issues/29)
+- [前端模拟面试【一面】](https://github.com/GpingFeng/gopal-blog/issues/30)
+- [前端模拟面试【二面】](https://github.com/GpingFeng/gopal-blog/issues/31)
+- [一年半前端 Bigo 一二三 面](https://github.com/GpingFeng/gopal-blog/issues/32)🔥
+- [一年半前端 Shopee 面经](https://github.com/GpingFeng/gopal-blog/issues/33)🔥
 
 ## 方案与实战总结
 - [前端异常捕获和定位](https://juejin.cn/post/6844904049196662798)
