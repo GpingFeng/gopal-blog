@@ -119,24 +119,25 @@ ahooks 源码阅读系列，[文档地址](https://gpingfeng.github.io/ahooks-an
 - [一年半前端 Shopee 面经](https://github.com/GpingFeng/gopal-blog/issues/33)🔥
 
 ## 方案与实战总结
-- [前端异常捕获和定位](https://juejin.cn/post/6844904049196662798)
-- [记一次通过工具减少 Git 冲突](https://juejin.cn/post/6895534290411454477)
-- [使用 koa2 实现一个简单JWT鉴权](https://juejin.cn/post/6921493257578872845)
-- [自定义 ESLint Plugin](https://juejin.cn/post/7004613507844931614)
-- [如何在你的项目中使用新的ES规范](https://juejin.cn/post/7018174628090609701)
-- [Node 服务中如何写日志？](https://juejin.cn/post/7045999468843368462)
-- [一文带你进入微前端世界](https://juejin.cn/post/7104253657251577886)🔥
-- [我们是怎么在项目中落地qiankun的](https://juejin.cn/post/7104621169189322782)🔥
+- [前端异常捕获和定位](https://github.com/GpingFeng/gopal-blog/issues/34)
+- [记一次通过工具减少 Git 冲突](https://github.com/GpingFeng/gopal-blog/issues/35)
+- [使用 koa2 实现一个简单JWT鉴权](https://github.com/GpingFeng/gopal-blog/issues/36)
+- [自定义 ESLint Plugin](https://github.com/GpingFeng/gopal-blog/issues/37)
+- [如何在你的项目中使用新的ES规范](https://github.com/GpingFeng/gopal-blog/issues/38)
+- [Node 服务中如何写日志？](https://github.com/GpingFeng/gopal-blog/issues/39)
+- [一文带你进入微前端世界](https://github.com/GpingFeng/gopal-blog/issues/40)🔥
+- [我们是怎么在项目中落地qiankun的](https://github.com/GpingFeng/gopal-blog/issues/41)🔥
 
 ## 问题总结
-- [不靠谱的 console](https://juejin.cn/post/6844903846427230215)
-- [font-family 继承失效了？](https://juejin.cn/post/6913704404654751751)
-- [如何解决 Mac 左右滚动误触返回事件？](https://juejin.cn/post/6947858245356617764)
-- [Vue-i18n 变量使用以及采坑总结](https://juejin.cn/post/6958609646013644836)
-- [Antd Form.Item name 属性不生效问题（含原理解析）](https://juejin.cn/post/7103472687170715684)
-- [我本地明明是好的啊？前端怎么本地复现线上问题？](https://juejin.cn/post/7107567660396871716)🔥
-- [记录一次切换包管理器引发的血案](https://juejin.cn/post/7108003663582494733)
-- [API 请求慢？这次锅真不在后端](https://juejin.cn/post/7119074496610304031)🔥
+- [不靠谱的 console](https://github.com/GpingFeng/gopal-blog/issues/42)
+- [font-family 继承失效了？](https://github.com/GpingFeng/gopal-blog/issues/43)
+- [如何解决 Mac 左右滚动误触返回事件？](https://github.com/GpingFeng/gopal-blog/issues/44)
+- [Vue-i18n 变量使用以及采坑总结](https://github.com/GpingFeng/gopal-blog/issues/45)
+- [Antd Form.Item name 属性不生效问题（含原理解析）](https://github.com/GpingFeng/gopal-blog/issues/46)
+- [我本地明明是好的啊？前端怎么本地复现线上问题？](https://github.com/GpingFeng/gopal-blog/issues/47)🔥
+- [记录一次切换包管理器引发的血案](https://github.com/GpingFeng/gopal-blog/issues/48)
+- [API 请求慢？这次锅真不在后端](https://github.com/GpingFeng/gopal-blog/issues/49)🔥
+- #46
 
 ## 职业规划与思考
 - [Gopal 的 2020 年度总结 ](https://juejin.cn/post/6902397101200637959)
