@@ -140,10 +140,10 @@ ahooks 源码阅读系列，[文档地址](https://gpingfeng.github.io/ahooks-an
 - #46
 
 ## 职业规划与思考
-- [Gopal 的 2020 年度总结 ](https://juejin.cn/post/6902397101200637959)
-- [魔法：程序员如何增加你的时间？](https://juejin.cn/post/7047026601040543774)
-- [除夕夜的总结，Gopal 的 2021](https://juejin.cn/post/7059372208509943816)
-- [一位普通前端程序媛转行创业阶段小结](https://juejin.cn/post/7123914177168703518)
-- [我在 Shopee 工作这两年](https://juejin.cn/post/7116448560568074270)🔥
+- [Gopal 的 2020 年度总结 ](https://github.com/GpingFeng/gopal-blog/issues/50)
+- [魔法：程序员如何增加你的时间？](https://github.com/GpingFeng/gopal-blog/issues/51)
+- [除夕夜的总结，Gopal 的 2021](https://github.com/GpingFeng/gopal-blog/issues/52)
+- [一位普通前端程序媛转行创业阶段小结](https://github.com/GpingFeng/gopal-blog/issues/53)
+- [我在 Shopee 工作这两年](https://github.com/GpingFeng/gopal-blog/issues/54)🔥
 
 
