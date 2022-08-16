@@ -101,6 +101,7 @@ ahooks 源码阅读系列，[文档地址](https://gpingfeng.github.io/ahooks-an
 - [那些关于DOM的常见Hook封装（一） ](https://github.com/GpingFeng/gopal-blog/issues/17)
 - [那些关于DOM的常见Hook封装（二）](https://github.com/GpingFeng/gopal-blog/issues/15)
 - [列表页常见 hook 封装](https://github.com/GpingFeng/gopal-blog/issues/16)
+- [大家都能看得懂的源码之ahooks useInfiniteScroll](https://github.com/GpingFeng/gopal-blog/issues/93)
 
 
 ## 前沿技术关注
