@@ -146,6 +146,7 @@ ahooks 源码阅读系列，[文档地址](https://gpingfeng.github.io/ahooks-an
 - [我本地明明是好的啊？前端怎么本地复现线上问题？](https://github.com/GpingFeng/gopal-blog/issues/47)🔥
 - [记录一次切换包管理器引发的血案](https://github.com/GpingFeng/gopal-blog/issues/48)
 - [API 请求慢？这次锅真不在后端](https://github.com/GpingFeng/gopal-blog/issues/49)🔥
+- [页面中使用到定时器的注意啦📢这个坑可能你们也会有！](https://github.com/GpingFeng/gopal-blog/issues/98)
 
 ## 职业规划与思考
 - [Gopal 的 2020 年度总结 ](https://github.com/GpingFeng/gopal-blog/issues/50)
