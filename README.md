@@ -28,6 +28,7 @@ Gopal 的个人博客
 
 ## 日常生活/思考
 - [「重见天日」！不戴眼镜也可以看清啦！记录我的摘镜历程](https://github.com/GpingFeng/gopal-blog/issues/97)
+- [公司与个人：「相互利用」的关系](https://github.com/GpingFeng/gopal-blog/issues/99)
 
 
 ## 前端基础（HTML/CSS/JS）
