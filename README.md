@@ -25,6 +25,9 @@ Gopal 的个人博客
 
 ![](https://user-images.githubusercontent.com/20135760/185728934-b89103a5-e3ee-4c9f-819e-7fffd5c72f73.png)
 
+## AI 
+- [AI正在改变游戏规则](https://github.com/GpingFeng/gopal-blog/issues/109)
+
 
 ## 前端基础（HTML/CSS/JS）
 - [前端须知的 Cookie 知识小结](https://github.com/GpingFeng/gopal-blog/issues/79)
